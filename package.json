@@ -1,0 +1,24 @@
+{
+  "name": "passphrase-poem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./",
+    "test": "semistandard && tape test.js | tap-spec"
+  },
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ap": "^0.2.0",
+    "array-flatten": "^2.1.0",
+    "assert": "^1.4.1",
+    "cmudict": "^1.0.2",
+    "create-hash": "^1.1.2",
+    "pbkdf2": "^3.0.4",
+    "pluralize": "^2.0.0",
+    "pos": "^0.3.0",
+    "randombytes": "^2.0.3",
+    "unorm": "^1.4.1"
+  }
+}

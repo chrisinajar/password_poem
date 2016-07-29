@@ -1,0 +1,2874 @@
+{
+  "s": [
+    {
+      "word": "a",
+      "cmu": "EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "EY"
+    },
+    {
+      "word": "add",
+      "cmu": "AE1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AED"
+    },
+    {
+      "word": "all",
+      "cmu": "AO1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "AOL"
+    },
+    {
+      "word": "am",
+      "cmu": "AE1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "AEM"
+    },
+    {
+      "word": "an",
+      "cmu": "AE1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "AEN"
+    },
+    {
+      "word": "a",
+      "cmu": "EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "EY"
+    },
+    {
+      "word": "ask",
+      "cmu": "AE1 S K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AESK"
+    },
+    {
+      "word": "at",
+      "cmu": "AE1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AET"
+    },
+    {
+      "word": "back",
+      "cmu": "B AE1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AEK"
+    },
+    {
+      "word": "be",
+      "cmu": "B IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "beat",
+      "cmu": "B IY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYT"
+    },
+    {
+      "word": "bent",
+      "cmu": "B EH1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "bite",
+      "cmu": "B AY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYT"
+    },
+    {
+      "word": "blink",
+      "cmu": "B L IH1 NG K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHNGK"
+    },
+    {
+      "word": "bore",
+      "cmu": "B AO1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "break",
+      "cmu": "B R EY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYK"
+    },
+    {
+      "word": "breathe",
+      "cmu": "B R IY1 DH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYDH"
+    },
+    {
+      "word": "bring",
+      "cmu": "B R IH1 NG",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHNG"
+    },
+    {
+      "word": "broke",
+      "cmu": "B R OW1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OWK"
+    },
+    {
+      "word": "build",
+      "cmu": "B IH1 L D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHLD"
+    },
+    {
+      "word": "burn",
+      "cmu": "B ER1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "ERN"
+    },
+    {
+      "word": "but",
+      "cmu": "B AH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "CC",
+      "rhyme": "AHT"
+    },
+    {
+      "word": "buy",
+      "cmu": "B AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "by",
+      "cmu": "B AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AY"
+    },
+    {
+      "word": "call",
+      "cmu": "K AO1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AOL"
+    },
+    {
+      "word": "came",
+      "cmu": "K EY1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EYM"
+    },
+    {
+      "word": "catch",
+      "cmu": "K AE1 CH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AECH"
+    },
+    {
+      "word": "climb",
+      "cmu": "K L AY1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYM"
+    },
+    {
+      "word": "close",
+      "cmu": "K L OW1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "clothe",
+      "cmu": "K L OW1 DH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OWDH"
+    },
+    {
+      "word": "come",
+      "cmu": "K AH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHM"
+    },
+    {
+      "word": "cross",
+      "cmu": "K R AO1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AO"
+    },
+    {
+      "word": "cut",
+      "cmu": "K AH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHT"
+    },
+    {
+      "word": "did",
+      "cmu": "D IH1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "IHD"
+    },
+    {
+      "word": "die",
+      "cmu": "D AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "do",
+      "cmu": "D UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "UW"
+    },
+    {
+      "word": "down",
+      "cmu": "D AW1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AWN"
+    },
+    {
+      "word": "draw",
+      "cmu": "D R AO1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AO"
+    },
+    {
+      "word": "drove",
+      "cmu": "D R OW1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OWV"
+    },
+    {
+      "word": "each",
+      "cmu": "IY1 CH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "IYCH"
+    },
+    {
+      "word": "eat",
+      "cmu": "IY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYT"
+    },
+    {
+      "word": "else",
+      "cmu": "EH1 L S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "EHL"
+    },
+    {
+      "word": "far",
+      "cmu": "F AA1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AAR"
+    },
+    {
+      "word": "fast",
+      "cmu": "F AE1 S T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AEST"
+    },
+    {
+      "word": "feel",
+      "cmu": "F IY1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYL"
+    },
+    {
+      "word": "fell",
+      "cmu": "F EH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHL"
+    },
+    {
+      "word": "felt",
+      "cmu": "F EH1 L T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHLT"
+    },
+    {
+      "word": "fill",
+      "cmu": "F IH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHL"
+    },
+    {
+      "word": "find",
+      "cmu": "F AY1 N D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYND"
+    },
+    {
+      "word": "fit",
+      "cmu": "F IH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "fix",
+      "cmu": "F IH1 K S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHK"
+    },
+    {
+      "word": "fly",
+      "cmu": "F L AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "fold",
+      "cmu": "F OW1 L D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OWLD"
+    },
+    {
+      "word": "for",
+      "cmu": "F AO1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "found",
+      "cmu": "F AW1 N D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AWND"
+    },
+    {
+      "word": "from",
+      "cmu": "F R AH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AHM"
+    },
+    {
+      "word": "frown",
+      "cmu": "F R AW1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "AWN"
+    },
+    {
+      "word": "fuck",
+      "cmu": "F AH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHK"
+    },
+    {
+      "word": "gave",
+      "cmu": "G EY1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EYV"
+    },
+    {
+      "word": "get",
+      "cmu": "G EH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "give",
+      "cmu": "G IH1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHV"
+    },
+    {
+      "word": "go",
+      "cmu": "G OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "got",
+      "cmu": "G AA1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AAT"
+    },
+    {
+      "word": "grab",
+      "cmu": "G R AE1 B",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AEB"
+    },
+    {
+      "word": "greet",
+      "cmu": "G R IY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYT"
+    },
+    {
+      "word": "grow",
+      "cmu": "G R OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "guess",
+      "cmu": "G EH1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "EH"
+    },
+    {
+      "word": "had",
+      "cmu": "HH AE1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AED"
+    },
+    {
+      "word": "hang",
+      "cmu": "HH AE1 NG",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AENG"
+    },
+    {
+      "word": "hate",
+      "cmu": "HH EY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "EYT"
+    },
+    {
+      "word": "have",
+      "cmu": "HH AE1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "AEV"
+    },
+    {
+      "word": "he",
+      "cmu": "HH IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IY"
+    },
+    {
+      "word": "hear",
+      "cmu": "HH IY1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYR"
+    },
+    {
+      "word": "help",
+      "cmu": "HH EH1 L P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHLP"
+    },
+    {
+      "word": "here",
+      "cmu": "HH IY1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "IYR"
+    },
+    {
+      "word": "hide",
+      "cmu": "HH AY1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYD"
+    },
+    {
+      "word": "him",
+      "cmu": "HH IH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IHM"
+    },
+    {
+      "word": "hit",
+      "cmu": "HH IH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "hold",
+      "cmu": "HH OW1 L D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OWLD"
+    },
+    {
+      "word": "hung",
+      "cmu": "HH AH1 NG",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AHNG"
+    },
+    {
+      "word": "if",
+      "cmu": "IH1 F",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "IHF"
+    },
+    {
+      "word": "it",
+      "cmu": "IH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "it",
+      "cmu": "IH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "join",
+      "cmu": "JH OY1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OYN"
+    },
+    {
+      "word": "just",
+      "cmu": "JH AH1 S T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AHST"
+    },
+    {
+      "word": "keep",
+      "cmu": "K IY1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYP"
+    },
+    {
+      "word": "kept",
+      "cmu": "K EH1 P T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHPT"
+    },
+    {
+      "word": "kill",
+      "cmu": "K IH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHL"
+    },
+    {
+      "word": "knew",
+      "cmu": "N UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "UW"
+    },
+    {
+      "word": "knock",
+      "cmu": "N AA1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AAK"
+    },
+    {
+      "word": "know",
+      "cmu": "N OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "lay",
+      "cmu": "L EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EY"
+    },
+    {
+      "word": "lead",
+      "cmu": "L EH1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHD"
+    },
+    {
+      "word": "learn",
+      "cmu": "L ER1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "ERN"
+    },
+    {
+      "word": "leave",
+      "cmu": "L IY1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYV"
+    },
+    {
+      "word": "let",
+      "cmu": "L EH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "lie",
+      "cmu": "L AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "lift",
+      "cmu": "L IH1 F T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHFT"
+    },
+    {
+      "word": "like",
+      "cmu": "L AY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AYK"
+    },
+    {
+      "word": "live",
+      "cmu": "L AY1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYV"
+    },
+    {
+      "word": "lock",
+      "cmu": "L AA1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AAK"
+    },
+    {
+      "word": "look",
+      "cmu": "L UH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "UHK"
+    },
+    {
+      "word": "lose",
+      "cmu": "L UW1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "UW"
+    },
+    {
+      "word": "lost",
+      "cmu": "L AO1 S T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AOST"
+    },
+    {
+      "word": "make",
+      "cmu": "M EY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYK"
+    },
+    {
+      "word": "match",
+      "cmu": "M AE1 CH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AECH"
+    },
+    {
+      "word": "me",
+      "cmu": "M IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IY"
+    },
+    {
+      "word": "mean",
+      "cmu": "M IY1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYN"
+    },
+    {
+      "word": "meant",
+      "cmu": "M EH1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "meet",
+      "cmu": "M IY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYT"
+    },
+    {
+      "word": "met",
+      "cmu": "M EH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "miss",
+      "cmu": "M IH1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IH"
+    },
+    {
+      "word": "my",
+      "cmu": "M AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP$",
+      "rhyme": "AY"
+    },
+    {
+      "word": "near",
+      "cmu": "N IH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "IHR"
+    },
+    {
+      "word": "no",
+      "cmu": "N OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "OW"
+    },
+    {
+      "word": "north",
+      "cmu": "N AO1 R TH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AORTH"
+    },
+    {
+      "word": "not",
+      "cmu": "N AA1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AAT"
+    },
+    {
+      "word": "now",
+      "cmu": "N AW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AW"
+    },
+    {
+      "word": "of",
+      "cmu": "AH1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AHV"
+    },
+    {
+      "word": "off",
+      "cmu": "AO1 F",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AOF"
+    },
+    {
+      "word": "on",
+      "cmu": "AA1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AAN"
+    },
+    {
+      "word": "once",
+      "cmu": "W AH1 N S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "or",
+      "cmu": "AO1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "CC",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "out",
+      "cmu": "AW1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AWT"
+    },
+    {
+      "word": "pass",
+      "cmu": "P AE1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AE"
+    },
+    {
+      "word": "pay",
+      "cmu": "P EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "pick",
+      "cmu": "P IH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHK"
+    },
+    {
+      "word": "piss",
+      "cmu": "P IH1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IH"
+    },
+    {
+      "word": "play",
+      "cmu": "P L EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "please",
+      "cmu": "P L IY1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "plough",
+      "cmu": "P L AW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AW"
+    },
+    {
+      "word": "pull",
+      "cmu": "P UH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "UHL"
+    },
+    {
+      "word": "pump",
+      "cmu": "P AH1 M P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHMP"
+    },
+    {
+      "word": "push",
+      "cmu": "P UH1 SH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "UHSH"
+    },
+    {
+      "word": "put",
+      "cmu": "P UH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "UHT"
+    },
+    {
+      "word": "quite",
+      "cmu": "K W AY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AYT"
+    },
+    {
+      "word": "raise",
+      "cmu": "R EY1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "ran",
+      "cmu": "R AE1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AEN"
+    },
+    {
+      "word": "rang",
+      "cmu": "R AE1 NG",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AENG"
+    },
+    {
+      "word": "reach",
+      "cmu": "R IY1 CH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYCH"
+    },
+    {
+      "word": "read",
+      "cmu": "R EH1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHD"
+    },
+    {
+      "word": "ride",
+      "cmu": "R AY1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYD"
+    },
+    {
+      "word": "rose",
+      "cmu": "R OW1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OW"
+    },
+    {
+      "word": "run",
+      "cmu": "R AH1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "said",
+      "cmu": "S EH1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHD"
+    },
+    {
+      "word": "sail",
+      "cmu": "S EY1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYL"
+    },
+    {
+      "word": "sat",
+      "cmu": "S AE1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AET"
+    },
+    {
+      "word": "save",
+      "cmu": "S EY1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYV"
+    },
+    {
+      "word": "saw",
+      "cmu": "S AO1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AO"
+    },
+    {
+      "word": "say",
+      "cmu": "S EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "EY"
+    },
+    {
+      "word": "scare",
+      "cmu": "S K EH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHR"
+    },
+    {
+      "word": "scream",
+      "cmu": "S K R IY1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYM"
+    },
+    {
+      "word": "see",
+      "cmu": "S IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "seem",
+      "cmu": "S IY1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYM"
+    },
+    {
+      "word": "send",
+      "cmu": "S EH1 N D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHND"
+    },
+    {
+      "word": "sent",
+      "cmu": "S EH1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "shake",
+      "cmu": "SH EY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYK"
+    },
+    {
+      "word": "she",
+      "cmu": "SH IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IY"
+    },
+    {
+      "word": "shook",
+      "cmu": "SH UH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "UHK"
+    },
+    {
+      "word": "shout",
+      "cmu": "SH AW1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AWT"
+    },
+    {
+      "word": "shove",
+      "cmu": "SH AH1 V",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHV"
+    },
+    {
+      "word": "shrug",
+      "cmu": "SH R AH1 G",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHG"
+    },
+    {
+      "word": "since",
+      "cmu": "S IH1 N S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "IHN"
+    },
+    {
+      "word": "sit",
+      "cmu": "S IH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "sleep",
+      "cmu": "S L IY1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYP"
+    },
+    {
+      "word": "slip",
+      "cmu": "S L IH1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHP"
+    },
+    {
+      "word": "snap",
+      "cmu": "S N AE1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AEP"
+    },
+    {
+      "word": "so",
+      "cmu": "S OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "some",
+      "cmu": "S AH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "AHM"
+    },
+    {
+      "word": "soon",
+      "cmu": "S UW1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "UWN"
+    },
+    {
+      "word": "south",
+      "cmu": "S AW1 TH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "AWTH"
+    },
+    {
+      "word": "speak",
+      "cmu": "S P IY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IYK"
+    },
+    {
+      "word": "spend",
+      "cmu": "S P EH1 N D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHND"
+    },
+    {
+      "word": "spent",
+      "cmu": "S P EH1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "spoke",
+      "cmu": "S P OW1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OWK"
+    },
+    {
+      "word": "stand",
+      "cmu": "S T AE1 N D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AEND"
+    },
+    {
+      "word": "stare",
+      "cmu": "S T EH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHR"
+    },
+    {
+      "word": "start",
+      "cmu": "S T AA1 R T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AART"
+    },
+    {
+      "word": "stay",
+      "cmu": "S T EY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "stem",
+      "cmu": "S T EH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHM"
+    },
+    {
+      "word": "stick",
+      "cmu": "S T IH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHK"
+    },
+    {
+      "word": "still",
+      "cmu": "S T IH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "IHL"
+    },
+    {
+      "word": "stood",
+      "cmu": "S T UH1 D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "UHD"
+    },
+    {
+      "word": "stop",
+      "cmu": "S T AA1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AAP"
+    },
+    {
+      "word": "suck",
+      "cmu": "S AH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AHK"
+    },
+    {
+      "word": "swim",
+      "cmu": "S W IH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "IHM"
+    },
+    {
+      "word": "take",
+      "cmu": "T EY1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYK"
+    },
+    {
+      "word": "talk",
+      "cmu": "T AO1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AOK"
+    },
+    {
+      "word": "tear",
+      "cmu": "T EH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHR"
+    },
+    {
+      "word": "tell",
+      "cmu": "T EH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHL"
+    },
+    {
+      "word": "than",
+      "cmu": "DH AE1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AEN"
+    },
+    {
+      "word": "thank",
+      "cmu": "TH AE1 NG K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AENGK"
+    },
+    {
+      "word": "that",
+      "cmu": "DH AE1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AET"
+    },
+    {
+      "word": "their",
+      "cmu": "DH EH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP$",
+      "rhyme": "EHR"
+    },
+    {
+      "word": "them",
+      "cmu": "DH EH1 M",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "EHM"
+    },
+    {
+      "word": "then",
+      "cmu": "DH EH1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "EHN"
+    },
+    {
+      "word": "this",
+      "cmu": "DH IH1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "IH"
+    },
+    {
+      "word": "she",
+      "cmu": "SH IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IY"
+    },
+    {
+      "word": "think",
+      "cmu": "TH IH1 NG K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "IHNGK"
+    },
+    {
+      "word": "this",
+      "cmu": "DH IH1 S",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "DT",
+      "rhyme": "IH"
+    },
+    {
+      "word": "that",
+      "cmu": "DH AE1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AET"
+    },
+    {
+      "word": "though",
+      "cmu": "DH OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "OW"
+    },
+    {
+      "word": "thought",
+      "cmu": "TH AO1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AOT"
+    },
+    {
+      "word": "threw",
+      "cmu": "TH R UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "UW"
+    },
+    {
+      "word": "through",
+      "cmu": "TH R UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "UW"
+    },
+    {
+      "word": "throw",
+      "cmu": "TH R OW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "till",
+      "cmu": "T IH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "IHL"
+    },
+    {
+      "word": "told",
+      "cmu": "T OW1 L D",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OWLD"
+    },
+    {
+      "word": "too",
+      "cmu": "T UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "UW"
+    },
+    {
+      "word": "took",
+      "cmu": "T UH1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "UHK"
+    },
+    {
+      "word": "try",
+      "cmu": "T R AY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "turn",
+      "cmu": "T ER1 N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "ERN"
+    },
+    {
+      "word": "up",
+      "cmu": "AH1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AHP"
+    },
+    {
+      "word": "me",
+      "cmu": "M IY1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "IY"
+    },
+    {
+      "word": "wait",
+      "cmu": "W EY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EYT"
+    },
+    {
+      "word": "walk",
+      "cmu": "W AO1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AOK"
+    },
+    {
+      "word": "want",
+      "cmu": "W AA1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "AANT"
+    },
+    {
+      "word": "warn",
+      "cmu": "W AO1 R N",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AORN"
+    },
+    {
+      "word": "was",
+      "cmu": "W AA1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AA"
+    },
+    {
+      "word": "watch",
+      "cmu": "W AA1 CH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AACH"
+    },
+    {
+      "word": "wear",
+      "cmu": "W EH1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "EHR"
+    },
+    {
+      "word": "well",
+      "cmu": "W EH1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "EHL"
+    },
+    {
+      "word": "went",
+      "cmu": "W EH1 N T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "was",
+      "cmu": "W AA1 Z",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AA"
+    },
+    {
+      "word": "what",
+      "cmu": "W AH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "WP",
+      "rhyme": "AHT"
+    },
+    {
+      "word": "while",
+      "cmu": "W AY1 L",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "AYL"
+    },
+    {
+      "word": "who",
+      "cmu": "HH UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "WP",
+      "rhyme": "UW"
+    },
+    {
+      "word": "wipe",
+      "cmu": "W AY1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYP"
+    },
+    {
+      "word": "wish",
+      "cmu": "W IH1 SH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBP",
+      "rhyme": "IHSH"
+    },
+    {
+      "word": "with",
+      "cmu": "W IH1 DH",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "IN",
+      "rhyme": "IHDH"
+    },
+    {
+      "word": "woke",
+      "cmu": "W OW1 K",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "OWK"
+    },
+    {
+      "word": "wore",
+      "cmu": "W AO1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VBD",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "wrap",
+      "cmu": "R AE1 P",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AEP"
+    },
+    {
+      "word": "write",
+      "cmu": "R AY1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "VB",
+      "rhyme": "AYT"
+    },
+    {
+      "word": "yet",
+      "cmu": "Y EH1 T",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "RB",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "you",
+      "cmu": "Y UW1",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP",
+      "rhyme": "UW"
+    },
+    {
+      "word": "your",
+      "cmu": "Y AO1 R",
+      "syllables": 1,
+      "stress": "s",
+      "pos": "PRP$",
+      "rhyme": "AOR"
+    }
+  ],
+  "us": [
+    {
+      "word": "about",
+      "cmu": "AH0 B AW1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AWT"
+    },
+    {
+      "word": "above",
+      "cmu": "AH0 B AH1 V",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AHV"
+    },
+    {
+      "word": "accept",
+      "cmu": "AE0 K S EH1 P T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EHPT"
+    },
+    {
+      "word": "across",
+      "cmu": "AH0 K R AO1 S",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AO"
+    },
+    {
+      "word": "admit",
+      "cmu": "AH0 D M IH1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "IHT"
+    },
+    {
+      "word": "again",
+      "cmu": "AH0 G EH1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "EHN"
+    },
+    {
+      "word": "against",
+      "cmu": "AH0 G EH1 N S T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "EHNST"
+    },
+    {
+      "word": "ago",
+      "cmu": "AH0 G OW1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "agree",
+      "cmu": "AH0 G R IY1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "ahead",
+      "cmu": "AH0 HH EH1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "EHD"
+    },
+    {
+      "word": "allow",
+      "cmu": "AH0 L AW1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AW"
+    },
+    {
+      "word": "alone",
+      "cmu": "AH0 L OW1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "OWN"
+    },
+    {
+      "word": "along",
+      "cmu": "AH0 L AO1 NG",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AONG"
+    },
+    {
+      "word": "amaze",
+      "cmu": "AH0 M EY1 Z",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "among",
+      "cmu": "AH0 M AH1 NG",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AHNG"
+    },
+    {
+      "word": "annoy",
+      "cmu": "AH0 N OY1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "OY"
+    },
+    {
+      "word": "appear",
+      "cmu": "AH0 P IH1 R",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "IHR"
+    },
+    {
+      "word": "around",
+      "cmu": "ER0 AW1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AWND"
+    },
+    {
+      "word": "arrive",
+      "cmu": "ER0 AY1 V",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AYV"
+    },
+    {
+      "word": "asleep",
+      "cmu": "AH0 S L IY1 P",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "IYP"
+    },
+    {
+      "word": "avoid",
+      "cmu": "AH0 V OY1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "OYD"
+    },
+    {
+      "word": "away",
+      "cmu": "AH0 W EY1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "EY"
+    },
+    {
+      "word": "became",
+      "cmu": "B IH0 K EY1 M",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBD",
+      "rhyme": "EYM"
+    },
+    {
+      "word": "because",
+      "cmu": "B IH0 K AO1 Z",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AO"
+    },
+    {
+      "word": "become",
+      "cmu": "B IH0 K AH1 M",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AHM"
+    },
+    {
+      "word": "before",
+      "cmu": "B IH0 F AO1 R",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "began",
+      "cmu": "B IH0 G AE1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBD",
+      "rhyme": "AEN"
+    },
+    {
+      "word": "begin",
+      "cmu": "B IH0 G IH1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "IHN"
+    },
+    {
+      "word": "behind",
+      "cmu": "B IH0 HH AY1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AYND"
+    },
+    {
+      "word": "believe",
+      "cmu": "B IH0 L IY1 V",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "IYV"
+    },
+    {
+      "word": "beside",
+      "cmu": "B IH0 S AY1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AYD"
+    },
+    {
+      "word": "beside",
+      "cmu": "B IH0 S AY1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AYD"
+    },
+    {
+      "word": "between",
+      "cmu": "B IH0 T W IY1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "IYN"
+    },
+    {
+      "word": "confuse",
+      "cmu": "K AH0 N F Y UW1 Z",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "UW"
+    },
+    {
+      "word": "enjoy",
+      "cmu": "EH0 N JH OY1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "OY"
+    },
+    {
+      "word": "enough",
+      "cmu": "IH0 N AH1 F",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "AHF"
+    },
+    {
+      "word": "escape",
+      "cmu": "IH0 S K EY1 P",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EYP"
+    },
+    {
+      "word": "except",
+      "cmu": "IH0 K S EH1 P T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "EHPT"
+    },
+    {
+      "word": "excite",
+      "cmu": "IH0 K S AY1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AYT"
+    },
+    {
+      "word": "exclaim",
+      "cmu": "IH0 K S K L EY1 M",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EYM"
+    },
+    {
+      "word": "expect",
+      "cmu": "IH0 K S P EH1 K T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "EHKT"
+    },
+    {
+      "word": "explain",
+      "cmu": "IH0 K S P L EY1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EYN"
+    },
+    {
+      "word": "forget",
+      "cmu": "F ER0 G EH1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "herself",
+      "cmu": "HH ER0 S EH1 L F",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "PRP",
+      "rhyme": "EHLF"
+    },
+    {
+      "word": "himself",
+      "cmu": "HH IH0 M S EH1 L F",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "PRP",
+      "rhyme": "EHLF"
+    },
+    {
+      "word": "ignore",
+      "cmu": "IH0 G N AO1 R",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AOR"
+    },
+    {
+      "word": "inside",
+      "cmu": "IH0 N S AY1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AYD"
+    },
+    {
+      "word": "instead",
+      "cmu": "IH0 N S T EH1 D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "EHD"
+    },
+    {
+      "word": "into",
+      "cmu": "IH0 N T UW1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "UW"
+    },
+    {
+      "word": "perhaps",
+      "cmu": "P ER0 HH AE1 P S",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "AEP"
+    },
+    {
+      "word": "pretend",
+      "cmu": "P R IY0 T EH1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EHND"
+    },
+    {
+      "word": "produce",
+      "cmu": "P R AH0 D UW1 S",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "UW"
+    },
+    {
+      "word": "regret",
+      "cmu": "R AH0 G R EH1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "EHT"
+    },
+    {
+      "word": "relax",
+      "cmu": "R IH0 L AE1 K S",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AEK"
+    },
+    {
+      "word": "remain",
+      "cmu": "R IH0 M EY1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "EYN"
+    },
+    {
+      "word": "remind",
+      "cmu": "R IY0 M AY1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AYND"
+    },
+    {
+      "word": "repeat",
+      "cmu": "R IH0 P IY1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "IYT"
+    },
+    {
+      "word": "reply",
+      "cmu": "R IH0 P L AY1",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "AY"
+    },
+    {
+      "word": "respond",
+      "cmu": "R IH0 S P AA1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VB",
+      "rhyme": "AAND"
+    },
+    {
+      "word": "suggest",
+      "cmu": "S AH0 G JH EH1 S T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "EHST"
+    },
+    {
+      "word": "suppose",
+      "cmu": "S AH0 P OW1 Z",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "OW"
+    },
+    {
+      "word": "surround",
+      "cmu": "S ER0 AW1 N D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "VBP",
+      "rhyme": "AWND"
+    },
+    {
+      "word": "tonight",
+      "cmu": "T AH0 N AY1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "RB",
+      "rhyme": "AYT"
+    },
+    {
+      "word": "toward",
+      "cmu": "T AH0 W AO1 R D",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AORD"
+    },
+    {
+      "word": "until",
+      "cmu": "AH0 N T IH1 L",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "IHL"
+    },
+    {
+      "word": "upon",
+      "cmu": "AH0 P AA1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AAN"
+    },
+    {
+      "word": "within",
+      "cmu": "W IH0 DH IH1 N",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "IHN"
+    },
+    {
+      "word": "without",
+      "cmu": "W IH0 TH AW1 T",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "IN",
+      "rhyme": "AWT"
+    },
+    {
+      "word": "yourself",
+      "cmu": "Y ER0 S EH1 L F",
+      "syllables": 2,
+      "stress": "us",
+      "pos": "PRP",
+      "rhyme": "EHLF"
+    }
+  ],
+  "su": [
+    {
+      "word": "after",
+      "cmu": "AE1 F T ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "ER"
+    },
+    {
+      "word": "also",
+      "cmu": "AO1 L S OW0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "any",
+      "cmu": "EH1 N IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "DT",
+      "rhyme": "IY"
+    },
+    {
+      "word": "barely",
+      "cmu": "B EH1 R L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "bother",
+      "cmu": "B AA1 DH ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "carry",
+      "cmu": "K AE1 R IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "comment",
+      "cmu": "K AA1 M EH0 N T",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "EHNT"
+    },
+    {
+      "word": "cover",
+      "cmu": "K AH1 V ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "during",
+      "cmu": "D UH1 R IH0 NG",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "IHNG"
+    },
+    {
+      "word": "early",
+      "cmu": "ER1 L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "either",
+      "cmu": "IY1 DH ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "DT",
+      "rhyme": "ER"
+    },
+    {
+      "word": "enter",
+      "cmu": "EH1 N T ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "even",
+      "cmu": "IY1 V IH0 N",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IHN"
+    },
+    {
+      "word": "ever",
+      "cmu": "EH1 V ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "finish",
+      "cmu": "F IH1 N IH0 SH",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "IHSH"
+    },
+    {
+      "word": "follow",
+      "cmu": "F AA1 L OW0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "OW"
+    },
+    {
+      "word": "forward",
+      "cmu": "F AO1 R W ER0 D",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "ERD"
+    },
+    {
+      "word": "gently",
+      "cmu": "JH EH1 N T L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "handle",
+      "cmu": "HH AE1 N D AH0 L",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHL"
+    },
+    {
+      "word": "happen",
+      "cmu": "HH AE1 P AH0 N",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "jelly",
+      "cmu": "JH EH1 L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "listen",
+      "cmu": "L IH1 S AH0 N",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "manage",
+      "cmu": "M AE1 N AH0 JH",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHJH"
+    },
+    {
+      "word": "marry",
+      "cmu": "M EH1 R IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "maybe",
+      "cmu": "M EY1 B IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "mention",
+      "cmu": "M EH1 N SH AH0 N",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "mutter",
+      "cmu": "M AH1 T ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "nearly",
+      "cmu": "N IH1 R L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "never",
+      "cmu": "N EH1 V ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "often",
+      "cmu": "AO1 F AH0 N",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "AHN"
+    },
+    {
+      "word": "only",
+      "cmu": "OW1 N L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "onto",
+      "cmu": "AA1 N T UW0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "UW"
+    },
+    {
+      "word": "our",
+      "cmu": "AW1 ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "PRP$",
+      "rhyme": "ER"
+    },
+    {
+      "word": "over",
+      "cmu": "OW1 V ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "ER"
+    },
+    {
+      "word": "polish",
+      "cmu": "P AA1 L IH0 SH",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "IHSH"
+    },
+    {
+      "word": "pretty",
+      "cmu": "P R IH1 T IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "quickly",
+      "cmu": "K W IH1 K L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "rather",
+      "cmu": "R AE1 DH ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "ER"
+    },
+    {
+      "word": "really",
+      "cmu": "R IH1 L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "settle",
+      "cmu": "S EH1 T AH0 L",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "AHL"
+    },
+    {
+      "word": "simply",
+      "cmu": "S IH1 M P L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "slightly",
+      "cmu": "S L AY1 T L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "slowly",
+      "cmu": "S L OW1 L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "softly",
+      "cmu": "S AO1 F T L IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "under",
+      "cmu": "AH1 N D ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "ER"
+    },
+    {
+      "word": "very",
+      "cmu": "V EH1 R IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "RB",
+      "rhyme": "IY"
+    },
+    {
+      "word": "whether",
+      "cmu": "W EH1 DH ER0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "IN",
+      "rhyme": "ER"
+    },
+    {
+      "word": "worry",
+      "cmu": "W ER1 IY0",
+      "syllables": 2,
+      "stress": "su",
+      "pos": "VB",
+      "rhyme": "IY"
+    }
+  ],
+  "u": [
+    {
+      "word": "and",
+      "cmu": "AH0 N D",
+      "syllables": 1,
+      "stress": "u",
+      "pos": "CC",
+      "rhyme": "AHND"
+    },
+    {
+      "word": "her",
+      "cmu": "HH ER0",
+      "syllables": 1,
+      "stress": "u",
+      "pos": "PRP$",
+      "rhyme": "ER"
+    },
+    {
+      "word": "in",
+      "cmu": "IH0 N",
+      "syllables": 1,
+      "stress": "u",
+      "pos": "IN",
+      "rhyme": "IHN"
+    },
+    {
+      "word": "the",
+      "cmu": "DH AH0",
+      "syllables": 1,
+      "stress": "u",
+      "pos": "DT",
+      "rhyme": "AH"
+    }
+  ]
+}
